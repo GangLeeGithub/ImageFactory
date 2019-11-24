@@ -1,5 +1,6 @@
 #!/system/bin/sh
 recovery_list=(
+/dev/block/platform/11120000.ufs/by-name/RECOVERY
 /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/recovery
 /dev/block/platform/omap/omap_hsmmc.0/by-name/recovery
 /dev/block/platform/omap/omap_hsmmc.1/by-name/recovery
